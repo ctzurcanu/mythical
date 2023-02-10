@@ -32,13 +32,13 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1076"
-       x="-0.008433858"
-       y="-0.057090731"
-       width="1.0168677"
-       height="1.1141815">
+       x="-0.011353968"
+       y="-0.072178798"
+       width="1.0227079"
+       height="1.1443576">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.4674146"
+         stdDeviation="3.58543"
          id="feGaussianBlur1078" />
     </filter>
   </defs>
@@ -240,14 +240,14 @@
       </a>
     </g>
     <rect
-       style="mix-blend-mode:normal;fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#filter1076);opacity:0.5"
+       style="opacity:0.4;mix-blend-mode:normal;fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#filter1076)"
        id="rect1022"
-       width="880"
-       height="130"
-       x="71.999985"
-       y="879.56891"
-       rx="16"
-       ry="16" />
+       width="890"
+       height="140"
+       x="66.999992"
+       y="873.42181"
+       rx="24"
+       ry="24" />
   </g>
   <g
      inkscape:groupmode="layer"
