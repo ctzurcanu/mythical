@@ -21,6 +21,11 @@
    @media (prefers-color-scheme: light) {
       svg { background-color: #CCC; }
    }
+
+   rect:hover {
+      stroke-width: 50;
+      transition: all 5s ease;
+   }
    </style>
   <style
      id="style423">
